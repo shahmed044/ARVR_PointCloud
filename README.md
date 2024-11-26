@@ -1,4 +1,4 @@
-# sweep-3d-scanner-unity-viewer
+# AR/VR visualization of point cloud data
 A simple unity project to view scans created by the [open source 3D scanner project](https://github.com/scanse/sweep-3d-scanner) in first person, including VR support.
 
 
